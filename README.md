@@ -50,8 +50,7 @@ public/         → static assets
 - **recruitment_steps** — the recruitment process shown on a society's page
 - **applications** — one row per student application, unique per (student, society, role)
 
-Built by Aashish Sharma
 
 ---
 
-Built as a submission for GDG's society recruitment platform challenge.
+Built by Aashish Sharma as a submission for GDG's society recruitment platform challenge.
